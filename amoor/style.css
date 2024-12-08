@@ -25,6 +25,12 @@ body {
     font-size: 24px;
     margin-top: 20px;
   }
+h2 {
+  text-align: center; /* Alinha o texto no centro */
+  font-size: 24px; /* Ajusta o tamanho da fonte */
+  color: #333; /* Define a cor do texto */
+  margin-bottom: 10px; /* Dá um espaço abaixo da frase */
+}
   
   .time {
     font-size: 18px;
